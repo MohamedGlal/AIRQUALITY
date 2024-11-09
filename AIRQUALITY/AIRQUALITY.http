@@ -1,0 +1,6 @@
+@AIRQUALITY_HostAddress = http://localhost:5119
+
+GET {{AIRQUALITY_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
